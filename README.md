@@ -1,2 +1,2 @@
 # Cryptosporidium
-My project, a kind of protozoan.
+My project, a kind of protozoan parasites.
